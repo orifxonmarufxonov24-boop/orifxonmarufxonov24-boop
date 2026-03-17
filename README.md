@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Salom, men Orifxon
 
-<!--
-**orifxonmarufxonov24-boop/orifxonmarufxonov24-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Dasturlash, sun’iy intellekt va avtomatlashtirishga qiziqaman.  
+🔐 Botlar, foydali ilovalar va real muammolar uchun yechimlar yaratishni yoqtiraman.  
+🚀 Hozirda Python, C++, AI engineering va backend yo‘nalishlarida o‘z ustimda ishlayapman.
 
-Here are some ideas to get you started:
+## 🚀 Hozir nimalar qilyapman
+- Telegram botlar ustida ishlayapman
+- Shaxsiy AI assistant mobil ilovasi loyihasini rivojlantiryapman
+- Botlar va web loyihalarni GitHub’da tartibli portfolio ko‘rinishiga keltiryapman
+- PostgreSQL va MongoDB bilan ishlashni mustahkamlayapman
+- AI engineering va amaliy dasturlash bo‘yicha ko‘proq real loyihalar qilyapman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Texnologiyalar
+- Python
+- C++
+- PostgreSQL
+- MongoDB
+- AI Engineering
+- Git & GitHub
+
+## 📌 Loyihalar
+- Save Muzik Bot
+- Tug‘ilgan Kun Bot
+- Logistika Bot
+- Yotoqxona uchun navbatchi qo‘yish loyihasi
+- Do-kon sayti
+- Telefon uchun shaxsiy AI assistant ilovasi loyihasi
+
+## 🎯 Maqsadim
+Kelajakda kuchli dasturchi bo‘lib, foydali botlar, aqlli tizimlar va zamonaviy web/mobil ilovalar yaratish.
